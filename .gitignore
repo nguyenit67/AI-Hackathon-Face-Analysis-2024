@@ -1,0 +1,9 @@
+# Ignore all zip files
+*.DS_Store
+data
+private
+*.zip
+
+# Ignore all files and folders ending with _test
+*_test
+*_test.*
